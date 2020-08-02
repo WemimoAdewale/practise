@@ -1,0 +1,17 @@
+body
+{
+    background:linear-gradient(to right,pink,cyan);
+        font-size:1.0em;
+}
+.subtitle{
+    color:darkcyan;
+    background:yelllow;
+    font-size:5.0em;
+    font-weight:800;
+}
+
+#container-item
+{
+    color:beige;
+    background:green
+}
